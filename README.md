@@ -25,7 +25,7 @@ Time on Site (seconds): The duration the user spent on the site.
 
 Sales ($): The revenue generated from the interaction.
 
-# Excel analysis
+# Excel Analysis and Dashboard
 The CSV file was converted to XLSX, and a table was created with the data. Several pivot tables were then created to obtain the following metrics:
 
 Sum of total sales.
