@@ -68,5 +68,4 @@ Total sales by channel.
 
 A dashboard was then created with the obtained metrics:
 
-<img width="1021" height="717" alt="Marketing_excel_dashboard" src="https://github.com/user-attachments/assets/2fb9c5a3-e659-45b1-864a-27f18edf4b9b" />
-
+<img width="1020" height="717" alt="Marketing_excel_dashboard" src="https://github.com/user-attachments/assets/a3a45014-9d34-4539-9bee-48ec4a61b996" />
