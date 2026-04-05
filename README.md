@@ -69,3 +69,11 @@ Total sales by channel.
 A dashboard was then created with the obtained metrics:
 
 <img width="1019" height="717" alt="Marketing_excel_dashboard" src="https://github.com/user-attachments/assets/5fa69a5a-06bf-47c6-a01d-564f927e7fe5" />
+
+# Results and Recommendations
+
+The analysis performed on marketing campaigns A and B and their different transmission channels, with the objective of determining the best option when investing in advertising, concluded that campaign B via email is the best option when attracting new users, followed by campaign A via email, campaign B via Instagram, and campaign B via web banner.
+
+The analysis revealed total sales from new users totaling $988,528.51 and a total of 42,597 new users with a purchase rate of 47.86%.
+
+Campaign B via email acquired 9,700 new users and generated sales of $225,285.52, making it the most effective campaign in terms of acquiring new users and converting sales.
