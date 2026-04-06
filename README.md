@@ -1,9 +1,9 @@
-# Marketing-Campaign-Analysis
+# 📊 Marketing-Campaign-Analysis
 ------------------------------
 
 An analysis of a marketing campaign and its different transmission channels, as well as total sales and new users, to achieve greater efficiency when investing in advertising.
 
-# The Campaign
+# 🔍 The Campaign
 
 In this project, our client, an online store, completed a week-long, multichannel marketing campaign designed to test messaging and customer response across a range of featured products.
 
@@ -29,7 +29,7 @@ Website banner
 
 “Which campaign and channel combination should we focus on to increase sales to new customers, and why?”
 
-# The Data
+# 🛠️ The Data
 The Marketing_Campaign_Data.csv file contains records of marketing interactions from the weekly campaign; these records will be used to analyze the effectiveness of different campaigns and channels.
 
 Below is a detailed breakdown of the dataset's structure and contents:
@@ -51,7 +51,7 @@ Time on Site (seconds): The duration the user spent on the site.
 
 Sales ($): The revenue generated from the interaction.
 
-# Analysis and Dashboard
+# 🔍 Analysis and Dashboard
 The CSV file was converted to XLSX, and a table was created with the data. Several pivot tables were then created to obtain the following metrics:
 
 Sum of total sales.
@@ -70,7 +70,7 @@ A dashboard was then created with the obtained metrics:
 
 <img width="1019" height="717" alt="Marketing_excel_dashboard" src="https://github.com/user-attachments/assets/5fa69a5a-06bf-47c6-a01d-564f927e7fe5" />
 
-# Results and Recommendations
+# 🚀 Results and Recommendations
 
 The analysis performed on marketing campaigns A and B and their different transmission channels, with the objective of determining the best option when investing in advertising, concluded that campaign B via email is the best option when attracting new users, followed by campaign A via email, campaign B via Instagram, and campaign B via web banner.
 
