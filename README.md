@@ -62,6 +62,7 @@ Sales ($): The revenue generated from the interaction.
 
 # 🔍 Analysis and Dashboard
 
+The Analysis was made with Python libraries using Jupyter Notebooks
 
 <img width="1360" height="473" alt="Marketing1" src="https://github.com/user-attachments/assets/90498a8b-ab27-4bb4-8b28-e0cf281a900a" />
 <img width="1360" height="210" alt="Marketing2" src="https://github.com/user-attachments/assets/8d279d5b-8b95-4afb-8862-3733e2d77a35" />
